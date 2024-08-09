@@ -1,4 +1,4 @@
-# MOOC Java Programming I and II
+# MOOC Java Programming I
 Welcome to my repository to the MOOC Java Programming I course offered by the University of Helsinki. 
 This repository serves as a collection of my  solutions for the MOOC Java Programming courses, 
 covering fundamental aspects of Java programming.
